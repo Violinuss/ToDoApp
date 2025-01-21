@@ -27,9 +27,9 @@ Ein ToDo-Element besteht aus folgenden Attributen:
 Die Eingabe von der Priorität und dem Status sind anders als bei den restlichen Attributen nicht zwingend erforderlich, da einfach Default-Werte sonst verwendet werden.
 
 ## Verwendete Technologien
-Implementierung in Jetpack Compose
-SQLite-Datenbank zur Datenspeicherung
-DBeaver 24.3.2
+- Implementierung in Jetpack Compose
+- SQLite-Datenbank zur Datenspeicherung
+- DBeaver 24.3.2
 
 ## bekannte Probleme
 1. Ich wusste nicht, wie die App ungefähr visuell dargestellt werden sollte, weshalb ich erledigte ToDos grün gefärbt habe, um diese von offenen ToDos abzuheben.
