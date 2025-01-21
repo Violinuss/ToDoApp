@@ -3,7 +3,7 @@ Eine Android-App zur Demonstration von Datenpersistenz und SQLite-Datenbankanbin
 ## Installation & Set-up
 1. Repository klonen:
  git clone https://github.com/Violinuss/ToDoApp.git
-3. Projekt(ToDoApp) in Android Studio öffnen (nicht das ganze Repository)
+3. Projekt in Android Studio öffnen (funktioniert auch wenn man nur ToDoAufgabe öffnet)
 4. Gradle-Sync durchführen
 5. Emulator mit mindestens API 26 erstellen oder verwenden
 6. App ausführen
