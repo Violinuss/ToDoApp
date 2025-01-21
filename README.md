@@ -2,7 +2,7 @@
 Eine Android-App zur Demonstration von Datenpersistenz und SQLite-Datenbankanbindung in Android-Anwendungen. Diese App dient als Abgabeprojekt zur Demonstration von SQLite-Datenbankanbindung in Android. Berabeitet von Violeta B. Die eidesstattliche Erklärung befindet sich im Briefkasten.
 ## Installation & Set-up
 1. Repository klonen:
- git clone https://github.com/derschwabe226/StudentCard.git
+ git clone https://github.com/Violinuss/ToDoApp.git
 3. Projekt(ToDoApp) in Android Studio öffnen (nicht das ganze Repository)
 4. Gradle-Sync durchführen
 5. Emulator mit mindestens API 26 erstellen oder verwenden
